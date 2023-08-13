@@ -40,7 +40,7 @@ To explain in simpler terms, it is a set of operations performed in a step-by-st
 
   Data Structure :<br>
   
-                  1.Linear data structure
+                  1.Linear Data Structure
                           A.Static Data Structure
                               a.Array 
                               
