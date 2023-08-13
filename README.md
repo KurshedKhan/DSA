@@ -40,15 +40,15 @@ To explain in simpler terms, it is a set of operations performed in a step-by-st
 
   Data Structure :<br>
   
-                  1.Linear data structure<br>
-                          A.Static Data Structure<br>
-                              a.Array <br>
+                  1.Linear data structure
+                          A.Static Data Structure
+                              a.Array 
                               
-                          B.Dynamic Data Structure<br>
+                          B.Dynamic Data Structure
                               a.Stack
                               b.Queue
                               c.Linked lists
     
-                   2.Non-linear data structure<br>
-                           A. Tree Data Structure<br>
-                           B. Graph Data Structure<br>
+                   2.Non-linear data structure
+                           A. Tree Data Structure
+                           B. Graph Data Structure
