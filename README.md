@@ -50,5 +50,5 @@ To explain in simpler terms, it is a set of operations performed in a step-by-st
                               c.Linked lists
     
                    2.Non-linear data structure
-                           A. Tree Data Structure
-                           B. Graph Data Structure
+                           A.Tree Data Structure
+                           B.Graph Data Structure
