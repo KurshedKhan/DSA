@@ -1,5 +1,5 @@
 # DSA<br>
-Stand for : Data Structures and Algorithm <br>
+Stands for : Data Structures and Algorithm <br>
 
 # Data Structures :<br>
 An efficient data structure takes minimum memory space and requires minimum time to execute the data.<br>
