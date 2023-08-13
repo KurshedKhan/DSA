@@ -33,3 +33,20 @@ To explain in simpler terms, it is a set of operations performed in a step-by-st
   11.Bitwise Algorithms<br>
   12.Randomized Algorithms<br>
   13.Branch and Bound Algorithm<br>
+
+
+
+# Classification of the Data Structures :<br>
+
+  Data Structure : 1.Linear data structure<br>
+                          A.Static Data Structure<br>
+                              a.Array <br>
+                              
+                          B.Dynamic Data Structure<br>
+                              a.Stack
+                              b.Queue
+                              c.Linked lists
+    
+                   2.Non-linear data structure<br>
+                           A. Tree Data Structure<br>
+                           B. Graph Data Structure<br>
