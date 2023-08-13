@@ -38,7 +38,8 @@ To explain in simpler terms, it is a set of operations performed in a step-by-st
 
 # Classification of the Data Structures :<br>
 
-  Data Structure : 1.Linear data structure<br>
+  Data Structure :<br>
+                  1.Linear data structure<br>
                           A.Static Data Structure<br>
                               a.Array <br>
                               
